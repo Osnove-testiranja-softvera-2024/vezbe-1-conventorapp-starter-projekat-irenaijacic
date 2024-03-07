@@ -16,5 +16,10 @@ namespace OTS2023_ConventorApp
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //komentar
+        }
     }
 }
